@@ -28,7 +28,7 @@ namespace SimpleApplication
             else if(age > 17)
             {
                 ResultLabel.ForeColor = Color.Green;
-                ResultLabel.Text = $"{NameTextBox.Text}! Proszę oto twoje piwo!";
+                ResultLabel.Text = string.Format("{0}! Proszę oto twoje piwo!", NameTextBox.Text);
             }
             else
             {
