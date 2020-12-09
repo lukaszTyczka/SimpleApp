@@ -1,0 +1,10 @@
+F:\programyDo dudy\SimpleApplication\SimpleApplication\SimpleApplication\bin\Debug\SimpleApplication.exe.config
+F:\programyDo dudy\SimpleApplication\SimpleApplication\SimpleApplication\bin\Debug\SimpleApplication.exe
+F:\programyDo dudy\SimpleApplication\SimpleApplication\SimpleApplication\bin\Debug\SimpleApplication.pdb
+F:\programyDo dudy\SimpleApplication\SimpleApplication\SimpleApplication\obj\Debug\SimpleApplication.csprojAssemblyReference.cache
+F:\programyDo dudy\SimpleApplication\SimpleApplication\SimpleApplication\obj\Debug\SimpleApplication.Form1.resources
+F:\programyDo dudy\SimpleApplication\SimpleApplication\SimpleApplication\obj\Debug\SimpleApplication.Properties.Resources.resources
+F:\programyDo dudy\SimpleApplication\SimpleApplication\SimpleApplication\obj\Debug\SimpleApplication.csproj.GenerateResource.cache
+F:\programyDo dudy\SimpleApplication\SimpleApplication\SimpleApplication\obj\Debug\SimpleApplication.csproj.CoreCompileInputs.cache
+F:\programyDo dudy\SimpleApplication\SimpleApplication\SimpleApplication\obj\Debug\SimpleApplication.exe
+F:\programyDo dudy\SimpleApplication\SimpleApplication\SimpleApplication\obj\Debug\SimpleApplication.pdb
